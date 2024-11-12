@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.kippsmonk"
+    namespace "com.kipps.driver"
     defaultConfig {
-        applicationId "com.kippsmonk"
+        applicationId "com.kipps.driver"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
