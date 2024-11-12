@@ -11,7 +11,7 @@
     </shortcut>
    <capability android:name="actions.intent.START_EXERCISE">
   <intent>
-    <url-template android:value="kippsmonk://start/{?exercise}" />
+    <url-template android:value="test-app-deriver://start/{?exercise}" />
     <parameter android:name="exercise.name" android:key="exercise" />
   </intent>
 </capability>
