@@ -1,4 +1,4 @@
-package com.kippsmonk
+package com.kipps.driver
 import com.livekit.reactnative.LiveKitReactNative
 import com.livekit.reactnative.audio.AudioType
 
